@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "905329158770",
+    "firebase_url": "https://pocinsideronesiamtest.firebaseio.com",
+    "project_id": "pocinsideronesiamtest",
+    "storage_bucket": "pocinsideronesiamtest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905329158770:android:81d514cd8825c96a83b0eb",
+        "android_client_info": {
+          "package_name": "com.ais.mimo.pocinsider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905329158770-cq6g629e1eiq1r6sf8eg9ss8eqgnvm72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlwkU1UJAYe38at7-PpgSbmihhEyKYV4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905329158770-cq6g629e1eiq1r6sf8eg9ss8eqgnvm72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
